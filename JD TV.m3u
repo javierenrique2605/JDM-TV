@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="https://www.gatotv.com/canal/caracol_colombia#horarios_de_programacion"
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="Nacionales",Caracol TV HD (001)
+http://167.249.23.102:8000/play/a0i1/index.m3u8
