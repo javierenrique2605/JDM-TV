@@ -5,3 +5,7 @@ http://181.78.8.199:8000/play/a0b0/index.m3u8
 http://167.249.23.102:8000/play/a0i1/index.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="Nacionales",Canal RCN HD
 http://38.134.250.110:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="CaracolHD2.co@SD" tvg-logo="https://i.imgur.com/Fww94l9.png" group-title="Nacionales",Caracol HD2
+http://190.109.2.92:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" group-title="Nacionales",Caracol Internacional
+http://190.123.76.22:8002/play/a06j/index.m3u8
