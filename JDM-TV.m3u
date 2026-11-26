@@ -18,7 +18,7 @@ http://190.109.2.92:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="RCNHD2.co@SD" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="Nacionales",Canal RCN HD2
 http://181.78.14.26:4000/play/a07m/index.m3u8
 
-#EXTINF:-1 tvg-id="Telecaribe.co@SD" tvg-logo="https://i.imgur.com/w2t8CGT.png" group-title="Nacionales;Regionales",Telecaribe
+#EXTINF:-1 tvg-id="Telecaribe.co@SD" tvg-logo="https://i.imgur.com/E35cXHt.png" group-title="Nacionales;Regionales",Telecaribe
 http://190.61.47.54:8000/play/a010/index.m3u8
 
 
@@ -41,7 +41,7 @@ http://181.78.12.119:16123/play/ch18/index.m3u8
 #EXTINF:-1 tvg-id="LaKalle.co@SD" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" group-title="Musica",La Kalle
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 
-#EXTINF:-1 tvg-id="BluRadio.co@SD" tvg-logo="https://i.imgur.com/E35cXHt.png" group-title="Noticias",Blu Radio
+#EXTINF:-1 tvg-id="BluRadio.co@SD" tvg-logo="https://i.imgur.com/w2t8CGT.png" group-title="Noticias",Blu Radio
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 
 #EXTINF:-1 tvg-id="NTN24.co@SD" tvg-logo="https://i.imgur.com/UoKmSAP.png" group-title="Noticias",NTN24
