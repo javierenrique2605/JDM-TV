@@ -68,10 +68,10 @@ https://stream1.bitred.cl/nuestra-tele/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Series;Peliculas",Star Channel
 http://190.61.47.54:8000/play/a035/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.us@SD" tvg-logo="https://i.imgur.com/aOa73uT.png" group-title="Kids",Disney Channel
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJunior.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Kids",Disney Jr.
+#EXTINF:-1 tvg-id="DisneyJunior.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/1920px-2024_Disney_Jr._Logo.svg.png" group-title="Kids",Disney Jr.
 http://181.78.14.26:4000/play/a073/index.m3u8
 
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Series;Peliculas",FX
@@ -92,8 +92,3 @@ http://45.171.64.30:6060/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Series;Peliculas",HBO Family
 http://45.171.64.30:6060/play/a00k/index.m3u8
 
-#EXTINF:-1 tvg-id="@SD" tvg-logo="" group-title="Series;Peliculas",Nombre
-http://
-
-#EXTINF:-1 tvg-id="@SD" tvg-logo="" group-title="Series;Peliculas",Nombre
-http://
